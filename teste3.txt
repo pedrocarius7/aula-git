@@ -1,4 +1,3 @@
 exemplo de inserção em arquivo texto
 LINUX
 testando
-hello world !
